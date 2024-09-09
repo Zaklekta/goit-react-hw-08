@@ -1,0 +1,9 @@
+.header {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.navContainer {
+  display: flex;
+  justify-content: space-between;
+}
